@@ -177,7 +177,7 @@ body{
 .fourteen li{
 	float: left;
 	font-size: 12px;
-	margin-top: 18px;
+	margin-top: 16px;
 }
 .fourteen p{
 	float: left;
@@ -324,6 +324,7 @@ body{
 }
 .eighteen2 li{
 	margin-top: 5px;
+	margin-left: 4px;
 	height: 24px; 
 }
 .eighteen2 span{
